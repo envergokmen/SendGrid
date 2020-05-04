@@ -1,3 +1,2 @@
 runtime: aspnetcore
 env: flex
-service: default2
